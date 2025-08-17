@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Speech Recognition",
+    "desc": "This project implements a voice-based person identification system that enables secure access to applications using biometric speech features.",
+    "image": "Speech Recognition",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/chittimalla-saidulu-b63b55308/overlay/1754270420278/single-media-viewer/?profileId=ACoAAE57ATsBh4EDXKEMI3U85AEEiei8QWDrkl8",
+      "code": "https://github.com/Saidulu76/speech-recognition"
+    }
+  },
+  {
+    "name": "personal-website",
+    "desc": "Aspiring Computer Science Engineer passionate about web development, problem-solving, and continuous learning, showcasing skills, projects, and achievements through my portfolio.",
+    "image": "personal workspace",
+    "category": "basicweb",
+    "links": {
+      "view": "https://saidulu76.github.io/web-portfolio/",
+      "code": "https://github.com/Saidulu76/web-portfolio"
+    }
+  },
+  {
+    "name": "Portfolio Website main",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Saidulu76/Portfolio-Website-main"
+    }
+  },
+  {
+    "name": "AutoMob-Mechanic",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "AutoMob-Mechanic",
+    "category": "basicweb",
+    "links": {
+      "view": "https://saidulu76.github.io/automob-mechanic/",
+      "code": "https://github.com/Saidulu76/automob-mechanic"
+    }
+  }
+]
+
